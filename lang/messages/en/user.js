@@ -1,7 +1,7 @@
 // user.js
 
 const userMessages = {
-    headerTitle: "Lab 1: JSON, Object Constructor, localStorage",
+    headerTitle: "Lab 1: Mike Susut, A01330455",
     noteWriterHeader: "Note Writer",
     noteReaderHeader: "Note Reader",
     lastSaved: "Last saved at: ",
