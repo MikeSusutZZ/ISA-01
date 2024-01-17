@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+}
+
+#saveTime, #retrievalTime {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#noteSection textarea {
+    width: 90%;
+    margin: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
