@@ -1,3 +1,5 @@
+//chatgpt assisted
+
 class Note {
     constructor(content) {
         this.content = content;

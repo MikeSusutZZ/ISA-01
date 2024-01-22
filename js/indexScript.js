@@ -1,4 +1,4 @@
-// indexScript.js
+// chatgpt assisted
 
 document.addEventListener('DOMContentLoaded', function() {
     // Set the document title

@@ -1,3 +1,5 @@
+//chatgpt assisted
+
 const notesContainer = document.getElementById('notesDisplay');
 
 // Function to render notes to the DOM
